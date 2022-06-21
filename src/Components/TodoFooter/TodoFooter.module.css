@@ -1,0 +1,11 @@
+.todo_footer {
+  height: 55px;
+  width: 280px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+
+}
+
+
