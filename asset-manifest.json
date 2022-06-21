@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kabgaryan/static/css/main.66afc9d8.css",
+    "main.js": "/kabgaryan/static/js/main.8940c183.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kabgaryan/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/kabgaryan/index.html",
+    "main.66afc9d8.css.map": "/kabgaryan/static/css/main.66afc9d8.css.map",
+    "main.8940c183.js.map": "/kabgaryan/static/js/main.8940c183.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kabgaryan/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66afc9d8.css",
+    "static/js/main.8940c183.js"
+  ]
+}
